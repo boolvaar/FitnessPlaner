@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vvod">#86221F1F</color>
+    <color name="pink">#CC0E67</color>
+    <color name="back">#fdeeee</color>
+    <color name="gradientStart">#AB70F5</color>
+    <color name="gradientEnd">#F5B8EB</color>
+    <color name="gradientCenter">#8DA7F4</color>
+    <color name="blue">#0F28B4</color>
+    <color name="text_but">#660E75</color>
+    <color name = "card">#eddef2</color>
+    <color name="gradientStart2">#A6AB70F5</color>
+    <color name="gradientEnd2">#A6F5B8EB</color>
+    <color name="gradientCenter2">#A68DA7F4</color>
+    <color name="progress">#450850</color>
+    <color name="profile">#2E2B2B</color>
+    <color name="back_notes">#34AB70F5</color>
+    <color name="delete">#C60101</color>
+</resources>

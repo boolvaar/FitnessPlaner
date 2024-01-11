@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">FitnessPlaner</string>
+    <string name="profile">Профиль</string>
+    <string name="notes">Заметки</string>
+    <string name="gym">Тренировка</string>
+    <string name="registration">Регистрация</string>
+    <string name="login">Введите логин</string>
+    <string name="parol">Введите пароль</string>
+    <string name="email">Введите Email</string>
+    <string name="nameSignup">Введите имя</string>
+    <string name="account">Создайте аккаунт!</string>
+    <string name="auth">Авторизация</string>
+    <string name="enter">Войдите в аккаунт</string>
+    <string name="exit">Выход</string>
+    <string name="slogan">На пути к совершенству!</string>
+    <string name="day">День: </string>
+    <string name="exercise">упражнений</string>
+    <string name="start">Упражнения начнутся через: </string>
+    <string name="timer">Начать</string>
+    <string name="welcome">Добро пожаловать в </string>
+    <string name="fitness">FITNESS</string>
+    <string name="planer">PLANER</string>
+    <string name="next">Следующее</string>
+    <string name="done">Готово</string>
+    <string name="ostalos">Осталось: </string>
+    <string name="dnei">дней</string>
+    <string name="reset">Сбросить</string>
+    <string name="alert">Внимание</string>
+    <string name="no">Отмена</string>
+    <string name="reset_days_message">Вы действительно хотите сбросить все дни тренировок? </string>
+    <string name="reset_day_message">Хотите сбросить этот день и повторить упражнения?  </string>
+    <string name="noAccount">Нет аккаунта? </string>
+    <string name="zareg">Зарегистрируйтесь!</string>
+    <string name="enter_but">Вход</string>
+    <string name="save">Сохранить</string>
+    <string name="Add_new_note">Добавьте новую заметку</string>
+    <string name="age">Возраст</string>
+    <string name="currentWeight">Текущий вес</string>
+    <string name="wantWeight">Желаемый вес</string>
+    <string name="gender">Пол</string>
+    <string name="man">Мужской</string>
+    <string name="woman">Женский</string>
+    <string name="weight">Введите вес</string>
+    <string name="vvedite_age">Введите ваш возраст</string>
+
+</resources>

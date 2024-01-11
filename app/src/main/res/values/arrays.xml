@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Массив, где хранятся сами упражения (название, сколько раз, гифка) и дни (упражнения + отдых) -->
+<resources>
+    <string-array name="exercise">
+        <item>Отдых|10|otdix.gif</item> <!-- 0 -->
+        <item>Наклоны вниз|x45|Good_Morning-1.gif</item> <!-- 1 -->
+        <item>Поднятие колен|x30|Koleno_lokot_ruki_vverh.gif</item> <!-- 2 -->
+        <item>Махи ногой в сторону стоя|x15|Mah_nogoj_v_storonu_stoya.gif</item> <!-- 3 -->
+        <item>Мах прямой ноги на боку|x15|Mah_pryamoj_nogi_na_boku.gif</item> <!-- 4 -->
+        <item>Мах согнутой ноги на предплечьях|x15|Mah_sognutoj_nogi_na_predplechyah.gif</item> <!-- 5 -->
+        <item>Мостик|x30|Mostik.gif</item> <!-- 6 -->
+        <item>Отведение ноги назад стоя|x15|Otvedenie_nogi_nazad_new.gif</item> <!-- 7 -->
+        <item>Отведение ноги назад лежа|x15|Otvedenie_pryamoj_nogi.gif</item> <!-- 8 -->
+        <item>Касание плеч в планке|x20|Planka_kasanie_plech.gif</item> <!-- 9 -->
+        <item>Планка на коленях|x20|Planka_na_kolenyah.gif</item> <!-- 10 -->
+        <item>Подтягивание колена к груди|x30|Podtyagivanie_kolena_k_grudi.gif</item> <!-- 11 -->
+        <item>Отведение согнутой ноги в сторону|x15|Pozharnyj_gidrant.gif</item> <!-- 12 -->
+        <item>Приседание|x40|Prisedanie.gif</item> <!-- 13 -->
+        <item>Поднятие ног лежа|x30|Roll-in.gif</item> <!-- 14 -->
+        <item>Скручивание|x30|Skruchivanie.gif</item> <!-- 15 -->
+        <item>Приседание сумо|x30|Sumo_kulaki.gif</item> <!-- 16 -->
+    </string-array>
+    <string-array name="exercises_day">
+        <item>1,4,2,5,3,6,7,0,11,1,13,2,14,0,15</item> <!-- Day 1 -->
+        <item>4,1,5,2,6,0,4,8,5,8,6,0,8,7,10,0,8</item> <!-- Day 2 -->
+        <item>1,3,2,4,16,0,13,8,1,6,2,0,16,2,13,5,9,0,9</item> <!-- Day 3 -->
+        <item>7,0,11,0,13,0,16,0,15,0,2,0,15,0,16,0,10</item> <!-- Day 4 -->
+        <item>4,0,5,0,6,0,4,0,5,0,6,0,8,0,10,0,8</item> <!-- Day 5 -->
+        <item>1,0,2,0,16,0,13,0,1,0,2,0,16,0,13,0,9,0,9</item> <!-- Day 6 -->
+        <item>1,0,2,0,3,0,4,0,5,0,6,0,7,8,0,9</item> <!-- Day 7 -->
+        <item>1,0,2,0,3,0,7,0,11,0,13,0,14,0,15</item> <!-- Day 8 -->
+        <item>1,0,2,0,3,0,7,0,11,0,13,0,14,0,15</item> <!-- Day 9 -->
+        <item>4,0,5,0,6,0,4,0,5,0,6,0,8,0,10,0,8</item> <!-- Day 10 -->
+        <item>1,0,2,0,16,0,13,0,1,0,2,0,16,0,13,0,9,0,9</item> <!-- Day 11 -->
+        <item>7,0,11,0,13,0,16,0,15,0,2,0,15,0,16,0,10</item> <!-- Day 12 -->
+        <item>4,0,5,0,6,0,4,0,5,0,6,0,8,0,10,0,8</item> <!-- Day 13 -->
+        <item>1,0,2,0,16,0,13,0,1,0,2,0,16,0,13,0,9,0,9</item> <!-- Day 14 -->
+        <item>1,0,2,0,3,0,4,0,5,0,6,0,7,8,0,9</item> <!-- Day 15 -->
+        <item>1,0,2,0,3,0,7,0,11,0,13,0,14,0,15</item> <!-- Day 16 -->
+    </string-array>
+</resources>

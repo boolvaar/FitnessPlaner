@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655631390642",
+    "project_id": "fitnessplaner-d3fac",
+    "storage_bucket": "fitnessplaner-d3fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655631390642:android:498f1eced0c3a5f8d1f6ab",
+        "android_client_info": {
+          "package_name": "com.example.fitnessplaner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBByt_1i5tEffuYP3FN6YP43valLtpRc6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
